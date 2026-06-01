@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Awais Ahmad 👋
 ### CS Graduate · Web Developer · IT Support · Cloud & Networking Enthusiast
 
 📍 Saudi Arabia &nbsp;|&nbsp; 💼 Open to Opportunities &nbsp;|&nbsp; 🌐 Building on the Web & Cloud
